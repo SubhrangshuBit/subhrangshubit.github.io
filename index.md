@@ -2,13 +2,13 @@
 title: Subhrangshu Bit
 subtitle: (he/him)
 office: 901, 665 Commonwealth Ave, Boston, MA-02215
-date: Aug'24
+date: Apr'26
 lang: en
 toc-title: Contents
 ---
 ## About Me {#aboutme}
 
-I am a second year Computer Science Ph.D. student in Boston University.
+I am a Computer Science Ph.D. student in Boston University.
 I am a member of the [Kolachalama
 Laboratory](https://vkola-lab.github.io) working under the supervision
 of [Dr. Vijaya Kolachalama](https://www.bu.edu/cs/profiles/vkola/).
@@ -26,7 +26,7 @@ of [Dr. Vijaya Kolachalama](https://www.bu.edu/cs/profiles/vkola/).
 
 I mostly spend my time designing and developing machine learning models
 to aid biomedical applications. My research interests fall under the
-umbrella of multimodal representation learning.
+umbrella of model editing/merging.
 
 However, I am still on the exploration journey <i class="fa fa-road" aria-hidden="true"></i> to find my niche. I would
 be happy to talk more on anything related:
@@ -35,14 +35,14 @@ be happy to talk more on anything related:
 <summary>Topics of interest</summary>
 
 * Intersection of video and language understanding.
-* Are models capable of continually learning new tasks on videos?
-* Can we stop training to align embeddings from different off-the-shelf foundation models?
+* Are multi-task capabilities of large models modular in nature?
+* Can we create precision-care models, specifically tuned for each person?
 </details>
 
 ------------------------------------------------------------------------
 
 ## News
-
+* To be updated...
 * <i class="fa fa-headphones" aria-hidden="true"></i> Jul\'24: [PODGPT](https://podgpt.org)![PodGPT_logo](assets/images/PODGPT.png){.inline-image}: An audio-augmented LLM is live!
 * <i class="fa fa-file-o" aria-hidden="true"></i> Jul\'24: Our work on audio-augmented large language model is on [medRxiv](https://doi.org/10.1101/2024.07.11.24310304).
 * <i class="fa fa-id-badge" aria-hidden="true"></i> Sep\'23: Started as a CS Ph.D. student at Boston University.
